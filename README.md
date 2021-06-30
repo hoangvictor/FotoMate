@@ -12,5 +12,7 @@ Language: English.
 
 Content: App product idea presentation.
 
+Test performance:
+![Fotomate-testing-performance](https://drive.google.com/uc?export=view&id=1nh8vDulO_rvfoE2Xh62xHtrbvxp6jvQZ)
 
 Hoang Tien
